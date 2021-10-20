@@ -9,11 +9,11 @@
 <body>
 <h1>Kelly MARION-CHANLON</h1>
 
-<h2>Community Manager</h2>
+##Community Manager##
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQFohsyGKRMs9w/profile-displayphoto-shrink_800_800/0/1610300797106?e=1640217600&v=beta&t=EUSPO46iuAAVDE0VLSXIkGeQqQO6D7GUw2T4d-DAJes"alt="photo">
+! [Texte alternatif] (https://media-exp1.licdn.com/dms/image/C4D03AQFohsyGKRMs9w/profile-displayphoto-shrink_800_800/0/1610300797106?e=1640217600&v=beta&t=EUSPO46iuAAVDE0VLSXIkGeQqQO6D7GUw2T4d-DAJes)
 
-<h2>Contact</h2>
+## Contact
 
 * __Téléphone__: O698889260
 * **E-mail**: marionchanlonkelly@gmail.com
