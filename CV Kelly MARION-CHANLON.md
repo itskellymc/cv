@@ -11,7 +11,7 @@
 
 <h2>Community Manager</h2>
 
-![This is a alt text.](https://media-exp1.licdn.com/dms/image/C4D03AQFohsyGKRMs9w/profile-displayphoto-shrink_800_800/0/1610300797106?e=1640217600&v=beta&t=EUSPO46iuAAVDE0VLSXIkGeQqQO6D7GUw2T4d-DAJes)
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQFohsyGKRMs9w/profile-displayphoto-shrink_800_800/0/1610300797106?e=1640217600&v=beta&t=EUSPO46iuAAVDE0VLSXIkGeQqQO6D7GUw2T4d-DAJes"alt="photo">
 
 <h2>Contact</h2>
 
