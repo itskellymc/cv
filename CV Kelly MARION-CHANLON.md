@@ -1,7 +1,15 @@
-CV Kelly MARION-CHANLON
-# Kelly MARION-CHANLON
+<!DOCTYPE html>
+<html lang=fr>
 
-## Community Manager
+<head>
+<title> CV kelly MC </title>
+<meta charset="utf-8">
+</head>
+
+<body>
+<h1>Kelly MARION-CHANLON</h1>
+
+<h2>Community Manager<h2>
 
 ![This is a alt text.](https://media-exp1.licdn.com/dms/image/C4D03AQFohsyGKRMs9w/profile-displayphoto-shrink_800_800/0/1610300797106?e=1640217600&v=beta&t=EUSPO46iuAAVDE0VLSXIkGeQqQO6D7GUw2T4d-DAJes)
 
@@ -63,3 +71,6 @@ Modèle pour la marque novatrice Normande "Jeanne a Dit" symbole de la femme mod
 * La cuisine 
 * La photographie 
 * Les réseaux sociaux 
+
+</body>
+</html>
